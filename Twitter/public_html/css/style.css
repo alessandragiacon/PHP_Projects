@@ -1,0 +1,38 @@
+@charset "UTF-8"
+
+*{
+	font-family: 'Arial';
+	font-size: 12px;
+}
+
+body{
+	font-family: 'Arial';
+	font-size: 12px;
+}
+
+p{
+	border-bottom: 1px solid #000;
+	width: 95%;
+	margin-top: 5%;
+}
+
+.caixatxt{
+	width: 90%;
+	height: 10%;
+	position: absolute;
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.send{
+	position: relative;
+	margin-top: 10%;
+	margin-left: 80%;
+	padding: 0 auto;
+}
+.go_red{
+	color:red;
+}
+.go_green{
+	color:green;
+}
